@@ -1,0 +1,5 @@
+#!/bin/bash
+git add --all
+git update-index --chmod=+x *
+git commit -m 'Automated Commit'
+git push -f origin main
