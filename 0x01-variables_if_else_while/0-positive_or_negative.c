@@ -2,11 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 
-
 /**
  *main - Entry point
  *Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int n;
@@ -22,9 +22,10 @@ int main(void)
 	{
 		printf("%i is zero\n", n);
 	}
-	else
+	else if (n < 0)
 	{
 		printf("%i is negative\n", n);
 	}
+
 	return (0);
 }
