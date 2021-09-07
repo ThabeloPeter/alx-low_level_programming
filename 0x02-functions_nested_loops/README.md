@@ -3,7 +3,7 @@
 
 ### Authors
 
-* Melissa Ng
+* Thabelo Tshivhidzo
 
 ### Requirements
 
