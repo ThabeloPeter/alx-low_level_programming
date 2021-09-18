@@ -27,7 +27,7 @@ int largest_number(int a, int b, int c)
     }
     else
     {
-    
+    	printf("all numbers are equal")
     }
 
     return (largest);
